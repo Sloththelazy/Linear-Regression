@@ -12,12 +12,17 @@ This repository contains a linear regression model implemented in [programming l
 ## Contents
 
 * **[notebook/script name].ipynb:** Jupyter notebook/Python script containing the code for data cleaning, preprocessing, model training, evaluation, and visualization.
-* **data/**: (Optional) Folder containing the dataset used for the project.
-* **results/**: (Optional) Folder to store model outputs, plots, or reports.
+* **data/**: Folder containing the dataset used for the project.
+* **results/**: are in the files of the models and not seperated in folders
 
 ## Dependencies
 
-* [List the libraries and their versions - pandas, numpy, scikit-learn, matplotlib, seaborn, etc.]
+* sci-kit learn 
+* matplotlib.pyplot
+* pandas
+* OLS
+* numpy
+* seaborn
 
 ## Usage
 
